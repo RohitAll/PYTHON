@@ -34,7 +34,7 @@ This project uses some important Python concepts:
 ```text
 PYTHON/
 │
-├── Project.py
+├── Calculator.py
 └── README.md
 ```
 
@@ -55,7 +55,7 @@ cd PYTHON
 ### 3. Run the Python file
 
 ```bash
-python Project.py
+python Calculator.py
 ```
 
 ## 💻 How It Works
