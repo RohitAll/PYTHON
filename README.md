@@ -23,7 +23,7 @@ This project uses some important Python concepts:
 * `while` loop
 * `if`, `elif`, and `else`
 * User input with `input()`
-* Type conversion using `int()`
+* Type conversion using `float()`
 * f-strings
 * `break`
 * `continue`
